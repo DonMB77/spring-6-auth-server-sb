@@ -1,4 +1,4 @@
-package guru.springframework.spring6authserver;
+package com.drifter.spring6authserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
